@@ -1,0 +1,16 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  
+  h1.error Error #{error.status}: #{error.message}
+  h1.error 
+  img.error-body(src="/static/img/lost.png" width='340' height= '340')
+  p.error-body.black (Image by <a href="https://pixabay.com/users/Peggy_Marco-1553824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2876776">Peggy und Marco Lachmann-Anke</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2876776">Pixabay</a>)
+  
+  h3= "Looks like we're gonna need a bigger magnifying glass (or smaller head) because we couldn't find your request!"  
+  
+  
+  p.black #{error.stack}
+  

@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "A Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button, or every 10 seconds, whichever happens first!",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://sgoudy.github.io/Techdegree-Project-1/",
+            "github_link": "https://github.com/sgoudy/Techdegree-Project-1",
+            "image_urls": ["static/img/index/1.png", "static/img/projects/1.png", "static/img/projects/11.png", "static/img/projects/111.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "List Pagination and Filtering",
+            "description": "JavaScript that divides a long list into a series of 'pages' and improves the user experience of a web page.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://sgoudy.github.io/Techdegree-Project-2/#",
+            "github_link": "https://github.com/sgoudy/Techdegree-Project-2",
+            "image_urls":["static/img/index/2.png", "static/img/projects/2.png", "static/img/projects/211.png", "static/img/projects/21.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "Enhanced form so that it’s engaging, interactive, and easy to use.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://sgoudy.github.io/Techdegree-Project-3/interactive-form-v2%202/",
+            "github_link": "https://github.com/sgoudy/Techdegree-Project-3",
+            "image_urls":["static/img/index/3.png", "static/img/projects/3.png", "static/img/projects/31.png", "static/img/projects/311.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "OOP Game Show App",
+            "description": "A browser-based, word guessing game: 'Phrase Hunter.' A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+            "technologies": ["JavaScript", "OOP", "HTML", "CSS"],
+            "live_link": "https://sgoudy.github.io/Techdegree-Project-4/",
+            "github_link": "https://github.com/sgoudy/Techdegree-Project-4",
+            "image_urls":["static/img/index/4.png", "static/img/projects/4.png", "static/img/projects/411.png", "static/img/projects/41.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "Public API Requests",
+            "description": "Created an employee directory by communicating with a third-party API (Application Programming Interface).",
+            "technologies": ["JavaScript", "APIs", "HTML", "CSS"],
+            "live_link": "https://sgoudy.github.io/Techdegree-Project-5/public_api_request-v1/",
+            "github_link": "https://github.com/sgoudy/Techdegree-Project-5",
+            "image_urls":["static/img/index/5.png", "static/img/projects/5.png", "static/img/projects/51.png", "static/img/projects/511.png"]
+        }
+    ]
+}
