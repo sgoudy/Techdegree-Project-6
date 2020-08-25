@@ -52,7 +52,7 @@
             "technologies": ["React, JavaScript", "APIs", "HTML", "CSS"],
             "live_link": "https://react-gallery-app-sgoudy.herokuapp.com/",
             "github_link": "https://github.com/sgoudy/Techdegree-Project-7",
-            "image_urls":["static/img/index/7.png", "static/img/projects/5.png", "static/img/projects/71.png", "static/img/projects/711.png"]
+            "image_urls":["static/img/index/7.png", "static/img/projects/7.png", "static/img/projects/71.png", "static/img/projects/711.png"]
         }
     ]
 }
