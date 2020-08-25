@@ -11,7 +11,7 @@ TEMPLATES:
 Error.pug template created.
 
 ERRORS:
-When the app is directed at a non-existent route, like /error/error, the app displays a user friendly error page in the browser that details the following:
+When the app is directed at a non-existent route, lke /error/error, the app displays a user friendly error page in the browser that details the following:
 error.message
 error.status
 error.stack
