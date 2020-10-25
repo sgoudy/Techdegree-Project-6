@@ -68,8 +68,8 @@
             "project_name": "Milkshake Order Form",
             "description": "Raw JavaScript, HTML and CSS that dynamically adds and deletes milkshakes; includes sales tax and valid gratuity additions. (Freelance Request)",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https://sgoudy-library.herokuapp.com/",
-            "github_link": "https://sgoudy.github.io/milkshakes/",
+            "live_link": "https://sgoudy.github.io/milkshakes/",
+            "github_link": "https://github.com/sgoudy/milkshakes",
             "image_urls":["static/img/index/8.png", "static/img/projects/8.png", "static/img/projects/81.png", "static/img/projects/811.png"]
         }
     ]
