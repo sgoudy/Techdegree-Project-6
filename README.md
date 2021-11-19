@@ -1,6 +1,10 @@
 # Techdegree-Project-6
  Static Node.js and Express Site
 
+![homepage fullscreen](mockups/image1.png)
+![project fullscreen](mockups/image3.png)
+![homepage medscreen](mockups/image2.png)
+![project medscreen](mockups/image4.png)
 
 -- Exceeds Criteria--
 START:
